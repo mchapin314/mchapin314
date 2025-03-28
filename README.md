@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a student at Texas A&M
+
 <!--
 **mchapin314/mchapin314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
